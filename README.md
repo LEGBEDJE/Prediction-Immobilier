@@ -6,7 +6,7 @@ Ce projet a pour but de prédire les prix de l'immobilier en utilisant le jeu de
 
 1.  **Clonez le dépôt** :
     ```bash
-    git clone <URL_DU_DEPOT>
+    git clone git@github.com:LEGBEDJE/Prediction-Immobilier.git
     cd predictionimmobilier
     ```
 
